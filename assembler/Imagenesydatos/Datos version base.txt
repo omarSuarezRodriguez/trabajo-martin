@@ -1,0 +1,6 @@
+Instrucciones Totales: 94
+ALU: 25
+Jump: 8
+Branch: 9
+Memory: 19
+Other: 33
